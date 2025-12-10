@@ -1,3 +1,12 @@
+/*
+ * ESP32-S3 TALKING SWR METER V4.4
+ * Version 4.5
+ * 
+ * Copyright (C) 2025 Jean Weber LX1WJ
+ * Licensed under the GNU GPLv3.
+ */
+
+
 #include <Arduino.h>
 #include <math.h>
 #include <WiFi.h>
@@ -1523,3 +1532,4 @@ void loop() {
 
   delay(10);
 }
+
