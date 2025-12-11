@@ -3,7 +3,7 @@
 </p>
 
 
-# Accessible Talking SWR Meter (ESP32-S3)
+# Accessible Talking SWR Meter
 ### A speech-guided SWR and RF power meter for blind and visually impaired amateur radio operators
 
 This project implements a fully “talking” SWR and RF power meter based on an ESP32-S3 and a directional coupler.  
