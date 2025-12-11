@@ -219,7 +219,7 @@ The device announces:
 
 ### Antenna tuning
 1. Press **T1 long** → tuning mode  
-2. Maintain a continuous carrier  
+2. Maintain a continuous carrier, low power
 3. Adjust antenna tuner  
 4. Listen for:
    - lower pitch → better SWR  
