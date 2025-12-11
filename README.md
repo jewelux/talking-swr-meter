@@ -177,7 +177,7 @@ Why a resistor ladder?
   - WebServer  
   - Preferences (NVS)
   - I2S driver (`driver/i2s.h`)  
-- Version **V4.4**:
+- Version **V4.5**:
   - button ladder on GPIO 9  
   - speech data in PROGMEM  
   - tri-lingual serial debug output (EN / DE / FR)  
