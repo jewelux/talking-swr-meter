@@ -108,8 +108,8 @@ A directional coupler with **50 Ω system impedance** is required.
 
 It must provide two DC voltages proportional to RF power:
 
-- **FWD** — forward power voltage  
-- **REV** — reflected power voltage  
+- **FWD** — forward power voltage  (0V - 3.3V)
+- **REV** — reflected power voltage  (0V - 3.3V)
 
 These voltages are read by two ADC inputs on the ESP32-S3.
 
