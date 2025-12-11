@@ -11,7 +11,7 @@ Version 4.5
            │  TX                                │
            └───────[ RF IN   SWR BRIDGE   RF OUT ]───────────┐
                    60 dB Directional Coupler (SWR Bridge)     │
-                   (e.g. 100 W / 500 W models)                │
+                   (e.g. 100 W / 2000W models)                │
                           │              │                    │
                           │ FWD          │ REV                │
                           │              │                    │
@@ -148,9 +148,9 @@ Typical station power supply (13.8 V):
       |         (e.g. LM2596)        |
       |                              |
       |  IN+   ◄────── 13.8 V +      |
-      |  IN-   ◄────── 13.8 V - (GND)|
+      |  IN-   ◄────── GND           |
       |                              |
-      |  OUT+  ───────► 5 V          |
+      |  OUT+  ───────► 5 V +        |
       |  OUT-  ───────► GND          |
       +------------------------------+
 
