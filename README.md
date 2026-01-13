@@ -12,6 +12,11 @@ The device measures forward and reflected power using a directional coupler
 and calculates RF power and SWR. Interaction is performed using buttons,
 acoustic feedback, and a web interface.
 
+## Operating Instructions
+
+For a complete non-visual operating guide, see
+[USAGE.md – Operating Guide](USAGE.md).
+
 ---
 
 ## Project Evolution
